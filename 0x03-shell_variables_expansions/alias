@@ -1,0 +1,4 @@
+alias g='git add .'
+alias c='git commit -m '
+alias p='git push'
+alias ch='chmod u+x '
